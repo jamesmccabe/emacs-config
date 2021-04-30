@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: shell (emacs-lisp)
+# key: sh
+# --
+#+begin_src sh
+$0
+#+end_src

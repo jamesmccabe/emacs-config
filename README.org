@@ -1,0 +1,25 @@
+* emacs-config
+
+My [[https://www.gnu.org/software/emacs/][GNU Emacs]] configuration. \\
+I use my own configuration but it does take a lot of inspiration 
+from the [[https://github.com/hlissner/doom-emacs][Doom Emacs]] framework.
+
+** Features
+- I use [[https://jwiegley.github.io/use-package/][use-package]] for configuration and loading of packages.
+- I roll my own theme called [[https://github.com/jamesmccabe/emacs-config/blob/main/themes/sientifik-theme.el][Sientifik]] (early beta stages).
+- Font is [[https://dejavu-fonts.github.io/][DejaVu Sans Mono]].
+- For completition I use [[https://github.com/creichert/ido-vertical-mode.el][ido-vertical-mode]], recentf, [[https://github.com/nonsequitur/smex][smex]], [[https://company-mode.github.io/][company mode]], [[http://joaotavora.github.io/yasnippet/][yasnippet]].
+- I use default Emacs keybindings.
+
+** Setup
+
+When I first launch this Emacs configuration it automatically sets up and 
+installs my packages.
+
+#+begin_src sh
+git clone https://github.com/jamesmccabe/emacs-config.git ~/.emacs.d
+#+end_src
+
+** License
+
+GNU GPLv3. See [[https://github.com/jamesmccabe/emacs-config/blob/main/LICENSE][License]].
