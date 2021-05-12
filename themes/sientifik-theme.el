@@ -102,6 +102,14 @@
    `(web-mode-html-tag-bracket-face ((,class (:foreground ,sientifik-fg))))
    `(web-mode-html-tag-face ((,class (:foreground ,sientifik-blue))))
    `(web-mode-html-attr-name-face ((,class (:foreground ,sientifik-yellow))))
+
+   ;; latex settings
+   `(font-latex-sectioning-0-face ((,class (:foreground ,sientifik-yellow2 :weight bold :height 1.0))))
+   `(font-latex-sectioning-1-face ((,class (:foreground ,sientifik-yellow2 :weight bold :height 1.0))))
+   `(font-latex-sectioning-2-face ((,class (:foreground ,sientifik-yellow2 :weight bold :height 1.0))))
+   `(font-latex-sectioning-3-face ((,class (:foreground ,sientifik-yellow2 :weight bold :height 1.0))))
+   `(font-latex-sectioning-4-face ((,class (:foreground ,sientifik-yellow2 :weight bold :height 1.0))))
+   `(font-latex-sectioning-5-face ((,class (:foreground ,sientifik-yellow2 :weight bold))))
    
    ;; other settings
    
