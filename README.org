@@ -1,6 +1,7 @@
 * emacs-config
 
-My [[https://www.gnu.org/software/emacs/][GNU Emacs]] configuration. \\
+My [[https://www.gnu.org/software/emacs/][GNU Emacs]] configuration.
+
 I use my own configuration but it does take a lot of inspiration 
 from the [[https://github.com/hlissner/doom-emacs][Doom Emacs]] framework.
 
