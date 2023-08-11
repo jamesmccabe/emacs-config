@@ -1,6 +1,6 @@
 ;;; init.el --- My personal Emacs config for Emacs 26.3
 
-;; Copyright (C) 2020 James McCabe
+;; Copyright (C) 2020-2023 James McCabe
 
 ;; Author: James McCabe <james.mccab3(at)gmail.com>
 ;; URL: https://github.com/jamesmccabe/emacs-config
