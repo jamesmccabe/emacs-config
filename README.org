@@ -1,6 +1,6 @@
 * emacs-config
 
-My [[https://www.gnu.org/software/emacs/][GNU Emacs]] configuration.
+My [[https://www.gnu.org/software/emacs/][GNU Emacs]] configuration. A simple config for Elisp, Common Lisp, Latex, Html, CSS.
 
 I use my own configuration but it does take a lot of inspiration 
 from the [[https://github.com/doomemacs/doomemacs][Doom Emacs]] framework.
