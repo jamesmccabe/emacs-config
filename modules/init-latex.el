@@ -5,6 +5,8 @@
   :ensure auctex
   :mode ("\\.tex\\'" . latex-mode))
 
+(add-hook 'LaTeX-mode-hook 'turn-on-auto-fill)
+
 (provide 'init-latex)
 
 ;;; init-latex.el ends here
