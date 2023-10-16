@@ -5,7 +5,9 @@
   :ensure auctex
   :mode ("\\.tex\\'" . latex-mode))
 
-(add-hook 'LaTeX-mode-hook 'turn-on-auto-fill)
+;; LaTeX code indentation
+(setq LaTeX-indent-level 2)
+(setq LaTeX-item-indent 0)
 
 (provide 'init-latex)
 
