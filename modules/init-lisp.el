@@ -33,3 +33,5 @@ Call this function once!"
 (add-hook 'lisp-mode-hook #'lisp-add-defcommand-font-lock-keywords)
 
 (provide 'init-lisp)
+
+;;; init-lisp.el ends here

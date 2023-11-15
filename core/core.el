@@ -18,6 +18,7 @@
 (require 'init-org)
 (require 'init-scripting)
 (require 'init-webdevel)
+(require 'init-yaml)
 (require 'init-yasnippet)
 
 (provide 'core)
